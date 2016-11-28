@@ -1,0 +1,52 @@
+body{
+	background-color: #a8ff90;
+
+}
+
+
+nav {
+background-color: white;
+width: 400px;
+height: 300px;
+margin-left: 450px;
+margin-top: 200px;
+font-family: sans-serif;
+
+}
+
+.container {
+	padding-left: 80px;
+	padding-top: 50px;
+
+}
+
+input {
+	width: 250px;
+	height: 35px;
+	background-color: rgb(220,220,220)
+	border: none;
+}
+button {
+	background-color: lightgreen;
+
+	text-decoration: none;
+	display: block;
+	width: 250px;
+	height: 35px;
+
+}
+a.btn {
+	text-decoration: none;
+	color: grey;
+
+}
+
+.btn {
+	color: white;
+}
+
+a.p1 {
+	color: green;
+	text-decoration: none;
+}
+
